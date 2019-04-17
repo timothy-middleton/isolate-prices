@@ -1,4 +1,4 @@
-//Timothy Middleton 900382146
+
 
 #include <string>
 #include <iostream>
